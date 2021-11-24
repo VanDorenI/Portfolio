@@ -13,6 +13,22 @@ html {
   cursor: url(cursor50.png), pointer;
 }
 
+.button {
+  background-color: #000000;
+  border: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: neutral;
+  font-weight: 100;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: url(cursor50.png), pointer;
+  border-radius: 45%;
+}
+
 .main-home .wireo-container .wireo .page-container .page-image-container {
   position: absolute;
   top: 0;
