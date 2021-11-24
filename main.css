@@ -1,0 +1,55 @@
+@font-face {
+  font-family: Neutral;
+  font-weight: 100;
+  src: url(./fonts/NeutralFace.otf);
+}
+@font-face {
+  font-family: Neutral;
+  font-weight: 500;
+  src: url(./fonts/NeutralFace-Bold.otf);
+}
+
+html {
+  cursor: url(cursor50.png), pointer;
+}
+
+.main-home .wireo-container .wireo .page-container .page-image-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: var(--zindex);
+  overflow: hidden;
+  cursor: pointer;
+}
+body {
+  background-color: rgb(85, 85, 85);
+  opacity: 0.9;
+  background-repeat: repeat-y;
+  background-repeat: repeat-x;
+  background-size: 100%;
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: right;
+  font-family: Neutral;
+  font-weight: 100;
+  font-size: 50px;
+  padding: 0px 0;
+  max-width: 100%;
+  margin-top: 10vw;
+  margin-bottom: -1vw;
+  box-sizing: border-box;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
