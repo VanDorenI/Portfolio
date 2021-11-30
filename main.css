@@ -9,44 +9,22 @@
   src: url(./fonts/NeutralFace-Bold.otf);
 }
 
+* {
+  box-sizing: border-box;
+}
+
 html {
-  cursor: url(cursor50.png), pointer;
+  cursor: url(cursor50.png) 25 25, pointer;
 }
 
-.button {
-  background-color: #000000;
-  border: black;
-  color: white;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-family: neutral;
-  font-weight: 100;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: url(cursor50.png), pointer;
-  border-radius: 45%;
-}
-
-.main-home .wireo-container .wireo .page-container .page-image-container {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  z-index: var(--zindex);
-  overflow: hidden;
-  cursor: pointer;
-}
 body {
   background-color: rgb(85, 85, 85);
-  opacity: 0.9;
   background-repeat: repeat-y;
   background-repeat: repeat-x;
   background-size: 100%;
-  box-sizing: border-box;
+  margin: 0;
 }
+
 h1 {
   color: rgb(255, 255, 255);
   text-align: right;
@@ -55,17 +33,88 @@ h1 {
   font-size: 50px;
   padding: 0px 0;
   max-width: 100%;
-  margin-top: 10vw;
+  margin-top: 5vw;
   margin-bottom: -1vw;
-  box-sizing: border-box;
 }
+
 p {
-  font-family: verdana;
+  font-family: Helvetica;
   font-size: 20px;
-  box-sizing: border-box;
+}
+
+a {
+  text-align: right;
+  font-family: Neutral;
+  font-weight: 100;
+  font-size: 10px;
+  color: rgb(0, 0, 0);
+  display: grid;
+  position: fixed;
 }
 
 img {
   max-width: 100%;
   height: auto;
+}
+
+/******* CAROUSEL *******/
+
+#carousel {
+  height: 70vh;
+  background-color: rgb(37, 37, 37);
+}
+
+.container {
+  padding: 20px 10px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: yellow;
+}
+
+#carousel-container {
+  position: relative;
+  height: 60vh;
+  overflow: hidden;
+}
+
+#carousel-container img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+/******* GALLERY *******/
+
+#archive {
+  height: 100vh;
+  background-color: rgb(194, 194, 194);
+}
+
+#archive-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 100px);
+  gap: 20px;
+  position: relative;
+}
+
+#archive-container img {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+#archive-popup {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 20px;
+  background-color: gray;
+}
+
+/******* ABOUT *******/
+
+#aboutme {
+  height: 100vh;
+  background-color: rgb(163, 163, 163);
 }

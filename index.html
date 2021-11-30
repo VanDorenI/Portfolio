@@ -12,17 +12,29 @@
 <body class="home portrait-view">
     <header class= "header"> <h1>Indra Van Doren</h1>
         <p>Portfolio</p></header>
-        <button class="button button5">Archive</button>
-        <button class="button button5">Contact</button>
-<main class="main main-home">
-    <div class="turning-container" data-carouselspeed="3000">
-        <div class="page-containter left-page-container" style="display: none;">
-            <div class= "page-image container left-page-image no-bleed active" data-href="" style=""> 
-                <div class= "page-image-wrapper align-centrer" style="--displaywidth:65%;--top-margin: 24,5%">
-                </div>
-            </div>
-    </div>
-    <div class="turning- captions"></div>
+    </header>
+    <a href="#archive">Archive</a>
+    <a href="#aboutme">About me</a>
+    <main>
+      <section id="carousel">
+        <div class="container" id="carousel-container"></div>
+      </section>
+
+      <a id="archive"></a>
+      <section id="archive">
+        <div class="container" id="archive-container">
+          <div id="archive-popup" style="display: none">
+            <img src="" id="archive-popup-image" />
+            <p id="archive-popup-year">Jaartal</p>
+            <p id="archive-popup-title">Titel</p>
+            <p id="archive-popup-description">Description</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="aboutme"></section>
+
 </main>
+<script src="main.js"></script>
 </body>
 </html>
