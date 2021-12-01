@@ -37,11 +37,6 @@ h1 {
   margin-bottom: -1vw;
 }
 
-p {
-  font-family: Helvetica;
-  font-size: 20px;
-}
-
 a {
   text-align: right;
   font-family: Neutral;
@@ -117,4 +112,14 @@ img {
 #aboutme {
   height: 100vh;
   background-color: rgb(163, 163, 163);
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 12px;
+  text-align: left;
+  padding: 0px 0;
+  max-width: 100%;
+  margin-top: 15vw;
+  margin-bottom: -1vw;
 }
