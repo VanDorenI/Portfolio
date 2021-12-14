@@ -1,9 +1,45 @@
 [
     {
-      "title": "Lollipop Font",
+      "title": "Initials 3D Object",
+      "image": "2019-3D-Object-Initials-1.jpg",
+      "description": "",
+      "year": "2019"
+    },
+    {
+      "title": "Initials 3D Object",
+      "image": "2019-3D-Object-Initials-2.jpg",
+      "description": "",
+      "year": "2019"
+    },
+    {
+      "title": "Lollipop Font Poster",
       "image": "2019-Lollipop-Font.jpg",
       "description": "In 2019 heb ik dit project gemaakt....",
       "year": "2019"
+    },
+    {
+      "title": "Lollipop Font Numbers",
+      "image": "2019-Lollipop-Numbers.jpg",
+      "description": "",
+      "year": "2019"
+    },
+    {
+      "title": "Coronaposter",
+      "image": "2020-Coronaposter.jpg",
+      "description": "...",
+      "year": "2020"
+    },
+    {
+      "title": "Creative alphabet",
+      "image": "2020-Creative-Alphabet.jpg",
+      "description": "...",
+      "year": "2020"
+    },
+    {
+      "title": "Four Word Poster",
+      "image": "2020-Four-Word-Poster.jpg",
+      "description": "...",
+      "year": "2020"
     },
     {
       "title": "Graphic Trailer Bookbinding",
@@ -36,6 +72,12 @@
       "year": "2020"
     },
     {
+      "title": "Kaleidoscope Postcard 'g'",
+      "image": "2020-Kaleidoscope-Postcard.jpg",
+      "description": "...",
+      "year": "2020"
+    },
+    {
       "title": "Photocollage",
       "image": "2020-Photocollage-Cover.jpg",
       "description": "",
@@ -63,6 +105,12 @@
       "title": "Rasterized Booklet",
       "image": "2020-Rasterized-Page-2.jpg",
       "description": "",
+      "year": "2020"
+    },
+    {
+      "title": "First Screen Print",
+      "image": "2020-Screen-Print.jpg",
+      "description": "...",
       "year": "2020"
     },
     {
@@ -139,12 +187,6 @@
     },
     {
       "title": "Rixou Font",
-      "image": "2021-Rixou-Font-Booklet-Video.MOV",
-      "description": "",
-      "year": "2021"
-    },
-    {
-      "title": "Rixou Font",
       "image": "2021-Rixou-Font-Cup.jpg",
       "description": "",
       "year": "2021"
@@ -158,12 +200,6 @@
     {
       "title": "Rixou Font",
       "image": "2021-Rixou-Font-Poster-2.jpg",
-      "description": "",
-      "year": "2021"
-    },
-    {
-      "title": "Rixou Font",
-      "image": "2021-Rixou-Font-Video.mp4",
       "description": "",
       "year": "2021"
     }

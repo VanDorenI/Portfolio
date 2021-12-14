@@ -12,7 +12,7 @@ function createCarousel(projects) {
     const image = document.createElement("img");
     image.src = "Fotos/work/" + project.image;
     image.alt = project.title;
-    const imageWidth = Math.round(Math.random() * 300);
+    const imageWidth = Math.round(Math.random() * 150);
     image.style.width = `${imageWidth}%`;
     image.addEventListener("click", moveImageToTheBack);
     container.appendChild(image);
