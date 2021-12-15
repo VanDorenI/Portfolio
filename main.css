@@ -132,6 +132,8 @@ img {
 
 #carousel-container img {
   position: absolute;
+  bottom: 0;
+  left: 0;
 }
 /******* ARCHIVE *******/
 
@@ -154,7 +156,7 @@ img {
   height: 100%;
   overflow: hidden;
   object-fit: cover;
-  border-radius: 10px;
+
   border: 0.25px solid #2b2a2a;
 }
 
@@ -164,23 +166,35 @@ img {
   left: 0;
   width: 100vw;
   height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 #archive-popup {
   position: relative;
+  overflow: hidden;
   top: 10px;
   left: 10px;
-  right: 10px;
   padding: 3px;
-  width: calc(100% - 10px);
+  width: calc(100% - 20px);
   background-color: rgb(255, 177, 251);
   border-radius: 10px;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   color: white;
   text-align: left;
+  overflow-y: scroll;
+  height: 100vh;
+}
+#archive-popup-image {
+  border-radius: 10px;
 }
 
+@media (min-width: 720px) {
+  #archive-popup {
+    width: 700px;
+    margin: 0 auto;
+  }
+}
 /******* ABOUT *******/
 
 #aboutme {
