@@ -12,7 +12,7 @@ function createCarousel(projects) {
     const image = document.createElement("img");
     image.src = "Fotos/work/" + project.image;
     image.alt = project.title;
-    const imageWidth = Math.round(20+Math.random() * 75);
+    const imageWidth = Math.round(20 + Math.random() * 75);
     image.style.width = `${imageWidth}%`;
     image.addEventListener("click", moveImageToTheBack);
     container.appendChild(image);
@@ -58,7 +58,7 @@ function showGalleryPopup(e) {
 
 function hideGalleryPopup() {
   document.querySelector("#archive-mask").style.display = "none";
-  document.body.style.overflow = "unset"
+  document.body.style.overflow = "unset";
   document.querySelector(".navigation").style.display = "grid";
   document.querySelector("#aboutme").style.display = "grid";
 }
