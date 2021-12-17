@@ -131,7 +131,6 @@ a:hover {
 #carousel-container {
   position: relative;
   height: 80vh;
-  width: calc(100%);
   overflow: hidden;
   background-color: rgb(241, 130, 245);
   cursor: url(cursor30BLACK.png) 15 15, auto;
