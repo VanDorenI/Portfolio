@@ -22,10 +22,6 @@
   box-sizing: border-box;
 }
 
-html {
-  cursor: url(cursor50.png) 50 50, auto;
-}
-
 body {
   background-color: rgb(0, 0, 0);
   background-repeat: repeat-y;
@@ -45,6 +41,7 @@ h1 {
   margin-top: 3vw;
   margin-bottom: 2vw;
   margin-right: 30px;
+  letter-spacing: 1px;
 }
 
 a {
@@ -87,16 +84,24 @@ img {
 .navigation a {
   font-family: Neutral;
   font-weight: 100;
-  font-size: 11px;
+  font-size: 18px;
+  font-kerning: Normal;
+  letter-spacing: 1px;
   text-align: center;
   text-decoration: none;
   color: rgb(255, 255, 255);
   background: rgb(0, 0, 0);
-  padding: 1.5vh;
-  padding-left: 2.5vh;
-  padding-right: 2.5vh;
+  padding-left: 1.5vh;
+  padding-right: 1.5vh;
+  padding-top: 1vh;
+  padding-bottom: 0.7vh;
   border-radius: 30px;
-  border: 2px solid #ffffff;
+  border: 2.5px solid #ffffff;
+}
+a:hover {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: 2.5px solid rgb(241, 130, 245);
 }
 
 /******* ALL CONTAINERS *******/
@@ -126,8 +131,10 @@ img {
 #carousel-container {
   position: relative;
   height: 80vh;
+  width: calc(100%);
   overflow: hidden;
-  background-color: rgb(222, 145, 224);
+  background-color: rgb(241, 130, 245);
+  cursor: url(cursor30BLACK.png) 15 15, auto;
 }
 
 #carousel-container img {
@@ -156,10 +163,12 @@ img {
   height: 100%;
   overflow: hidden;
   object-fit: cover;
-
-  border: 0.25px solid #2b2a2a;
 }
 
+#archive-container img:hover {
+  border: 3px solid rgb(241, 130, 245);
+  border-radius: 30px;
+}
 #archive-mask {
   position: fixed;
   top: 0;
@@ -176,8 +185,9 @@ img {
   left: 10px;
   padding: 3px;
   width: calc(100% - 20px);
-  background-color: rgb(255, 177, 251);
-  border-radius: 10px;
+  background-color: rgb(241, 130, 245);
+  border: 3px solid rgb(241, 130, 245);
+  border-radius: 30px;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
   color: white;
@@ -186,12 +196,13 @@ img {
   height: 100vh;
 }
 #archive-popup-image {
-  border-radius: 10px;
+  border-radius: 30px;
+  pointer-events: none;
 }
 
-@media (min-width: 920px) {
+@media (min-width: 820px) {
   #archive-popup {
-    width: 900px;
+    width: 800px;
     margin: 0 auto;
   }
 }
