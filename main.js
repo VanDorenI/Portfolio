@@ -35,6 +35,7 @@ function createGallery(projects) {
     image.dataset.description = project.description;
     image.dataset.title = project.title;
     image.dataset.year = project.year;
+    image.dataset.size = project.size;
     image.addEventListener("click", showGalleryPopup);
     container.appendChild(image);
   }
@@ -48,7 +49,9 @@ function showGalleryPopup(e) {
     image.dataset.year;
   document.querySelector("#archive-popup-title").textContent =
     image.dataset.title;
-  document.querySelector("#archive-popup-description").textContent =
+  document.querySelector("#archive-popup-size").textContent =
+    image.dataset.size;
+    document.querySelector("#archive-popup-description").textContent =
     image.dataset.description;
   document.querySelector("#archive-mask").style.display = "block";
   document.body.style.overflow = "hidden";

@@ -192,11 +192,12 @@ img {
   border-radius: 30px;
   text-align: left;
   overflow-y: scroll;
-  height: 100vh;
+  height: 98vh;
 }
 #archive-popup-image {
   border-radius: 30px;
   pointer-events: none;
+  object-fit: scale-down;
 }
 
 @media (min-width: 820px) {
@@ -204,16 +205,6 @@ img {
     width: 800px;
     margin: 0 auto;
   }
-}
-
-#archive-popup-year {
-  font-family: Neutral;
-  font-weight: 100;
-  letter-spacing: 1px;
-  font-size: 12px;
-  color: rgb(53, 53, 53);
-  text-align: left;
-  max-width: 100%;
 }
 
 #archive-popup-title {
@@ -225,15 +216,38 @@ img {
   text-decoration: none;
   color: rgb(255, 255, 255);
   text-align: left;
+  padding-left: 30px;
+}
+#archive-popup-year {
+  font-family: Neutral;
+  font-weight: 100;
+  letter-spacing: 1px;
+  font-size: 12px;
+  color: rgb(53, 53, 53);
+  text-align: left;
+  max-width: 100%;
+  padding-left: 50px;
+}
+
+#archive-popup-size {
+  font-family: Neutral;
+  font-weight: 100;
+  letter-spacing: 1px;
+  font-size: 12px;
+  color: rgb(53, 53, 53);
+  text-align: left;
+  max-width: 100%;
+  padding-left: 50px;
 }
 
 #archive-popup-description {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: left;
   max-width: 100%;
   text-decoration: none;
+  padding-left: 50px;
 }
 
 /******* ABOUT *******/
