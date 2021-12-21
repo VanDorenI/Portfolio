@@ -37,10 +37,11 @@ h1 {
   font-weight: 100;
   font-size: 50px;
   max-width: 100%;
-  margin-top: 3vw;
+  margin-top: 4.5vw;
   margin-bottom: 2vw;
   padding-right: 30px;
   letter-spacing: 1px;
+  line-height: 1.1;
 }
 
 a {
@@ -207,6 +208,7 @@ img {
     margin: 0 auto;
   }
 }
+/******* TEKST ARCHIVE *******/
 
 #archive-popup-title {
   display: grid;
@@ -219,6 +221,7 @@ img {
   color: rgb(255, 255, 255);
   text-align: left;
   padding-left: 30px;
+  padding-top: 0px;
 }
 
 #archive-popup-description {
@@ -231,17 +234,20 @@ img {
   text-decoration: none;
   padding-left: 50px;
   padding-right: 50px;
+  padding-bottom: 25px;
 }
 #grid-year-size {
   display: grid;
   grid-template-columns: repeat(35px 220px);
-  padding-left: 50px;
+  padding-left: 30px;
   padding-right: 50px;
   column-gap: 4px;
   justify-content: start;
   grid-auto-flow: column;
   max-width: 100%;
   text-align: left;
+  padding-bottom: 0px;
+  padding-top: 10px;
 }
 
 #archive-popup-year {
@@ -266,7 +272,6 @@ img {
 
 #aboutme {
   height: 50vh;
-  line-height: 1.5;
 }
 
 #aboutme-container {
@@ -280,6 +285,7 @@ img {
   padding-bottom: 60px;
 }
 
+/******* TEKST ABOUT *******/
 #aboutme p1 {
   font-family: Neutral;
   font-weight: 100;
@@ -290,6 +296,17 @@ img {
   color: rgb(241, 130, 245);
   text-align: left;
   padding-top: 30px;
+
+  color: rgb(241, 130, 245);
+  text-align: left;
+  font-family: Neutral;
+  font-weight: 100;
+  font-size: 50px;
+  max-width: 100%;
+  margin-bottom: 2vw;
+  padding-right: 30px;
+  letter-spacing: 1px;
+  line-height: 1.1;
 }
 
 #aboutme p2 {
@@ -303,6 +320,7 @@ img {
   max-width: 100%;
   text-decoration: underline;
   padding-top: 30px;
+  line-height: 1.5;
 }
 
 #aboutme p3 {
@@ -314,6 +332,7 @@ img {
   max-width: 100%;
   text-decoration: none;
   padding-left: 20px;
+  line-height: 1.5;
 }
 
 #aboutme p4 {
@@ -323,6 +342,7 @@ img {
   color: white;
   text-align: left;
   max-width: 100%;
+  line-height: 1.5;
 }
 
 #aboutme p5 {
@@ -333,4 +353,5 @@ img {
   text-align: left;
   max-width: 100%;
   text-decoration: none;
+  line-height: 1.5;
 }
