@@ -51,15 +51,17 @@ function showGalleryPopup(e) {
     image.dataset.title;
   document.querySelector("#archive-popup-size").textContent =
     image.dataset.size;
-    document.querySelector("#archive-popup-description").textContent =
+    document.querySelector("#archive-popup-description").innerHTML =
     image.dataset.description;
   document.querySelector("#archive-mask").style.display = "block";
   document.body.style.overflow = "hidden";
   document.querySelector(".navigation").style.display = "none";
   document.querySelector("#aboutme").style.display = "none";
+  document.querySelector("#archive-popup").scrollTop=0;
 }
 
 function hideGalleryPopup() {
+  
   document.querySelector("#archive-mask").style.display = "none";
   document.body.style.overflow = "unset";
   document.querySelector(".navigation").style.display = "grid";
