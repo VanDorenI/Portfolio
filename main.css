@@ -220,12 +220,13 @@ img {
   max-height: 95vh;
 }
 
-@media (min-width: 720px) {
+@media (min-width: 520px) {
   #archive-popup {
-    width: 700px;
+    width: 510px;
     margin: 0 auto;
   }
 }
+
 /******* TEKST ARCHIVE *******/
 
 #archive-popup-title {
