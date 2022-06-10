@@ -71,27 +71,6 @@
       "size": "//  A4"
     },
     {
-      "title": "Kaleidoscope Font",
-      "image": "2020-Kaleidoscope-Font-Book.JPG",
-      "description": "A kaleidoscope creates an image that exists out of a continually changing pattern of shapes and colours, which is why this name was chosen. This font is created from a grid consisting out of rectangles and circles. From this grid three different weights were created. The font was made out of shapes that where placed on the grid. This has resulted in a colorful and playful font that seems to dance on the page. Find out more about the font on <a href='https://kaleidoscope-font.netlify.app/index.html' target='_blank'> the website. </a>",
-      "year": "2020",
-      "size": "//  90mm x 264mm"
-    },
-    {
-      "title": "Kaleidoscope Font - Stampset",
-      "image": "2020-Kaleidoscope-Font-Stampset.JPG",
-      "description": "The Kaleidoscope font is created on a grid. Use these grid stamps on any paper and start making your own letters with the kaleidoscope grid! Find out more about the font on <a href='https://kaleidoscope-font.netlify.app/index.html' target='_blank'> the website. </a>",
-      "year": "2020",
-      "size": "//  Stamps: 21mm x 150mm  //  Box: 65mm x 160mm"
-    },
-    {
-      "title": "Kaleidoscope Postcard 'g'",
-      "image": "2020-Kaleidoscope-Postcard.jpg",
-      "description": "A postcard that presents the letter 'g' from the Kaleidoscope font. Find out more about the font on <a href='https://kaleidoscope-font.netlify.app/index.html' target='_blank'> the website. </a>",
-      "year": "2020",
-      "size": "//  A6"
-    },
-    {
       "title": "Photocollage",
       "image": "2020-Photocollage-Cover.jpg",
       "description": "A photocollage on a grid. ",
@@ -104,13 +83,6 @@
       "description": "A photocollage on a grid. ",
       "year": "2020",
       "size": "//  A4"
-    },
-    {
-      "title": "The man with the moviecamera -Poster",
-      "image": "2020-Poster.jpg",
-      "description": "A quote from Dziga Vertov was used as an inspiration for this poster. This poster is made out of a quote from 'Dziga Vertov'. ",
-      "year": "2020",
-      "size": "//  A1"
     },
     {
       "title": "Rasterized Booklet",
@@ -132,6 +104,34 @@
       "description": "Experiments with 'Rasterizing' and 'Bitmap' in Photoshop.",
       "year": "2020",
       "size": "//  A4"
+    },
+    {
+      "title": "Kaleidoscope Font",
+      "image": "2020-Kaleidoscope-Font-Book.JPG",
+      "description": "A kaleidoscope creates an image that exists out of a continually changing pattern of shapes and colours, which is why this name was chosen. This font is created from a grid consisting out of rectangles and circles. From this grid three different weights were created. The font was made out of shapes that where placed on the grid. This has resulted in a colorful and playful font that seems to dance on the page. Find out more about the font on <a href='https://kaleidoscope-font.netlify.app/index.html' target='_blank'> the website. </a>",
+      "year": "2020",
+      "size": "//  90mm x 264mm"
+    },
+    {
+      "title": "Kaleidoscope Font - Stampset",
+      "image": "2020-Kaleidoscope-Font-Stampset.JPG",
+      "description": "The Kaleidoscope font is created on a grid. Use these grid stamps on any paper and start making your own letters with the kaleidoscope grid! Find out more about the font on <a href='https://kaleidoscope-font.netlify.app/index.html' target='_blank'> the website. </a>",
+      "year": "2020",
+      "size": "//  Stamps: 21mm x 150mm  //  Box: 65mm x 160mm"
+    },
+    {
+      "title": "Kaleidoscope Postcard 'g'",
+      "image": "2020-Kaleidoscope-Postcard.jpg",
+      "description": "A postcard that presents the letter 'g' from the Kaleidoscope font. Find out more about the font on <a href='https://kaleidoscope-font.netlify.app/index.html' target='_blank'> the website. </a>",
+      "year": "2020",
+      "size": "//  A6"
+    },
+    {
+      "title": "The man with the moviecamera -Poster",
+      "image": "2020-Poster.jpg",
+      "description": "A quote from Dziga Vertov was used as an inspiration for this poster. This poster is made out of a quote from 'Dziga Vertov'. ",
+      "year": "2020",
+      "size": "//  A1"
     },
     {
       "title": "First Screen Print",
@@ -251,5 +251,68 @@
       "description": "Rixou is a modern and high-tech underground city beneath a nature reserve. For this city, a corporate identity was designed, which is modern but also radiates nature. The poster is an image to put this advanced city in the spotlights.",
       "year": "2021",
       "size": "//  1782mm x 840mm"
+    },
+    {
+      "title": "Circular - Publication",
+      "image": "2021-Circular-Booklet.jpeg",
+      "description": "This project explores the interrelationship between circles. A circle consists of points that stand at a certain distance from the center. The circle, as an unstable and dynamic geometric shape, will be the start for a search for movement with circles and the different kinds of results it could realize. Within this project, the focus will be on concentric circles consisting of different line widths and annuli. Eventually, this research will be expanded with experiments into the dynamic movements arising from the circular shape.",
+      "year": "2021",
+      "size": "//  A4"
+    },
+    {
+      "title": "Circular - Exhibition",
+      "image": "2021-Circular-Exhibition-book.jpeg",
+      "description": "This project explores the interrelationship between circles. A circle consists of points that stand at a certain distance from the center. The circle, as an unstable and dynamic geometric shape, will be the start for a search for movement with circles and the different kinds of results it could realize. Within this project, the focus will be on concentric circles consisting of different line widths and annuli. Eventually, this research will be expanded with experiments into the dynamic movements arising from the circular shape.",
+      "year": "2021",
+      "size": "//  Pages: A4 - Publication: A4"
+    },    
+    {
+      "title": "Circular - Exhibition",
+      "image": "2021-Circular-Exhibition.jpeg",
+      "description": "This project explores the interrelationship between circles. A circle consists of points that stand at a certain distance from the center. The circle, as an unstable and dynamic geometric shape, will be the start for a search for movement with circles and the different kinds of results it could realize. Within this project, the focus will be on concentric circles consisting of different line widths and annuli. Eventually, this research will be expanded with experiments into the dynamic movements arising from the circular shape.",
+      "year": "2021",
+      "size": "//  pages: A4"
+    },
+    {
+      "title": "Klein Handen Grote Creaties - Publicaties",
+      "image": "2022-Bachelorproef-KleineHandenGroteCreaties-Spreads.jpg",
+      "description": "This series of publications are part of a bachelor thesis at Sint Lucas Antwerp - Studio Graphic Design. The series consists of five publications ; line, form, color, composition and texture. They introduce artists and graphic designers who can be inspiring for preschool teachers to engage in creativity development. There is also a focus on the process during art education.",
+      "year": "2022",
+      "size": "//  170mm x 240mm"
+    },
+    {
+      "title": "Klein Handen Grote Creaties - Lijn",
+      "image": "2022-Bachelorproef-KleineHandenGroteCreaties-Lijn.jpg",
+      "description": "This series of publications are part of a bachelor thesis at Sint Lucas Antwerp - Studio Graphic Design. The series consists of five publications ; line, form, color, composition and texture. They introduce artists and graphic designers who can be inspiring for preschool teachers to engage in creativity development. There is also a focus on the process during art education.",
+      "year": "2022",
+      "size": "//  170mm x 240mm"
+    },
+    {
+      "title": "Klein Handen Grote Creaties - Kleur",
+      "image": "2022-Bachelorproef-KleineHandenGroteCreaties-Kleur.jpg",
+      "description": "This series of publications are part of a bachelor thesis at Sint Lucas Antwerp - Studio Graphic Design. The series consists of five publications ; line, form, color, composition and texture. They introduce artists and graphic designers who can be inspiring for preschool teachers to engage in creativity development. There is also a focus on the process during art education.",
+      "year": "2022",
+      "size": "//  170mm x 240mm"
+    },
+    {
+      "title": "Klein Handen Grote Creaties - Vorm",
+      "image": "2022-Bachelorproef-KleineHandenGroteCreaties-Vorm.jpg",
+      "description": "This series of publications are part of a bachelor thesis at Sint Lucas Antwerp - Studio Graphic Design. The series consists of five publications ; line, form, color, composition and texture. They introduce artists and graphic designers who can be inspiring for preschool teachers to engage in creativity development. There is also a focus on the process during art education.",
+      "year": "2022",
+      "size": "//  170mm x 240mm"
+    },
+    {
+      "title": "Klein Handen Grote Creaties - Compositie",
+      "image": "2022-Bachelorproef-KleineHandenGroteCreaties-Compositie.jpg",
+      "description": "This series of publications are part of a bachelor thesis at Sint Lucas Antwerp - Studio Graphic Design. The series consists of five publications ; line, form, color, composition and texture. They introduce artists and graphic designers who can be inspiring for preschool teachers to engage in creativity development. There is also a focus on the process during art education.",
+      "year": "2022",
+      "size": "//  170mm x 240mm"
+    },
+    {
+      "title": "Klein Handen Grote Creaties - Textuur",
+      "image": "2022-Bachelorproef-KleineHandenGroteCreaties-Textuur.jpg",
+      "description": "This series of publications are part of a bachelor thesis at Sint Lucas Antwerp - Studio Graphic Design. The series consists of five publications ; line, form, color, composition and texture. They introduce artists and graphic designers who can be inspiring for preschool teachers to engage in creativity development. There is also a focus on the process during art education.",
+      "year": "2022",
+      "size": "//  170mm x 240mm"
     }
   ]
