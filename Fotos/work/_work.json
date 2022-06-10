@@ -71,41 +71,6 @@
       "size": "//  A4"
     },
     {
-      "title": "Photocollage",
-      "image": "2020-Photocollage-Cover.jpg",
-      "description": "A photocollage on a grid. ",
-      "year": "2020",
-      "size": "//  A4"
-    },
-    {
-      "title": "Photocollage",
-      "image": "2020-Photocollage-Page.jpg",
-      "description": "A photocollage on a grid. ",
-      "year": "2020",
-      "size": "//  A4"
-    },
-    {
-      "title": "Rasterized Booklet",
-      "image": "2020-Rasterized-Page-1.jpg",
-      "description": "Experiments with 'Rasterizing' and 'Bitmap' in Photoshop.",
-      "year": "2020",
-      "size": "//  A4"
-    },
-    {
-      "title": "Rasterized Booklet",
-      "image": "2020-Rasterized-Page-2.jpg",
-      "description": "Experiments with 'Rasterizing' and 'Bitmap' in Photoshop.",
-      "year": "2020",
-      "size": "//  A4"
-    },
-    {
-      "title": "Rasterized Booklet",
-      "image": "2020-Rasterized-Page-3.jpg",
-      "description": "Experiments with 'Rasterizing' and 'Bitmap' in Photoshop.",
-      "year": "2020",
-      "size": "//  A4"
-    },
-    {
       "title": "Kaleidoscope Font",
       "image": "2020-Kaleidoscope-Font-Book.JPG",
       "description": "A kaleidoscope creates an image that exists out of a continually changing pattern of shapes and colours, which is why this name was chosen. This font is created from a grid consisting out of rectangles and circles. From this grid three different weights were created. The font was made out of shapes that where placed on the grid. This has resulted in a colorful and playful font that seems to dance on the page. Find out more about the font on <a href='https://kaleidoscope-font.netlify.app/index.html' target='_blank'> the website. </a>",
@@ -127,11 +92,46 @@
       "size": "//  A6"
     },
     {
+      "title": "Photocollage",
+      "image": "2020-Photocollage-Cover.jpg",
+      "description": "A photocollage on a grid. ",
+      "year": "2020",
+      "size": "//  A4"
+    },
+    {
+      "title": "Photocollage",
+      "image": "2020-Photocollage-Page.jpg",
+      "description": "A photocollage on a grid. ",
+      "year": "2020",
+      "size": "//  A4"
+    },
+    {
       "title": "The man with the moviecamera -Poster",
       "image": "2020-Poster.jpg",
       "description": "A quote from Dziga Vertov was used as an inspiration for this poster. This poster is made out of a quote from 'Dziga Vertov'. ",
       "year": "2020",
       "size": "//  A1"
+    },
+    {
+      "title": "Rasterized Booklet",
+      "image": "2020-Rasterized-Page-1.jpg",
+      "description": "Experiments with 'Rasterizing' and 'Bitmap' in Photoshop.",
+      "year": "2020",
+      "size": "//  A4"
+    },
+    {
+      "title": "Rasterized Booklet",
+      "image": "2020-Rasterized-Page-2.jpg",
+      "description": "Experiments with 'Rasterizing' and 'Bitmap' in Photoshop.",
+      "year": "2020",
+      "size": "//  A4"
+    },
+    {
+      "title": "Rasterized Booklet",
+      "image": "2020-Rasterized-Page-3.jpg",
+      "description": "Experiments with 'Rasterizing' and 'Bitmap' in Photoshop.",
+      "year": "2020",
+      "size": "//  A4"
     },
     {
       "title": "First Screen Print",
@@ -251,6 +251,7 @@
       "description": "Rixou is a modern and high-tech underground city beneath a nature reserve. For this city, a corporate identity was designed, which is modern but also radiates nature. The poster is an image to put this advanced city in the spotlights.",
       "year": "2021",
       "size": "//  1782mm x 840mm"
+<<<<<<< HEAD
     },
     {
       "title": "Circular - Publication",
@@ -314,5 +315,7 @@
       "description": "This series of publications are part of a bachelor thesis at Sint Lucas Antwerp - Studio Graphic Design. The series consists of five publications ; line, form, color, composition and texture. They introduce artists and graphic designers who can be inspiring for preschool teachers to engage in creativity development. There is also a focus on the process during art education.",
       "year": "2022",
       "size": "//  170mm x 240mm"
+=======
+>>>>>>> parent of 225557b (new work)
     }
   ]
